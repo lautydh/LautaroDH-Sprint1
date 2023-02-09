@@ -1,0 +1,6 @@
+body {background-image: url("libros.jpg");}
+p {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+#hud{background-color: aliceblue;}
